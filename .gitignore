@@ -1,0 +1,8 @@
+# 编译产物
+*.o
+*.exe
+hello
+
+# IDE
+.vscode/
+.idea/
